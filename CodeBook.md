@@ -60,7 +60,7 @@ Mean values that were estimation or averaged based on the original data were exc
  
  - The created tidy data set contains 180 rows and 68 columns
 
- - For more information see the README.md file for this project [link to the readme document that describes the code in greater detail]()
+ - For more information see the [README.md](https://github.com/crhardison/GettingAndCleaningDataCourseProject/blob/master/README.md) file for this project 
 
 ##Variables
 
